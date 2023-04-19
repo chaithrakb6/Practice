@@ -16,6 +16,6 @@ for(int i=1;i<=n;i++)
 }
 
 }
-
+//chaithra plzz checl the code
 
 	
